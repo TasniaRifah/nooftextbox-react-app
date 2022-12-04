@@ -1,0 +1,23 @@
+*{
+    padding-top: 5px;
+}
+label{
+    background-color:rgb(247, 201, 183);
+    border: 1px solid darksalmon;
+    border-radius: 3px;
+    padding-top: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 5px;
+    text-align: center;
+}
+.addbtn{
+    background-color:royalblue;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+    margin: 10px;
+    margin-left: 253px;
+    padding: 10px;
+    border-radius: 5px;
+}

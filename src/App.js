@@ -1,10 +1,11 @@
 import './App.css';
-import AddTextbox from './components/AddTextbox';
+
+import Home from './components/Home';
 
 function App() {
   return (
     <div className="App">
-       <AddTextbox />
+       <Home />
     </div>
   );
 }

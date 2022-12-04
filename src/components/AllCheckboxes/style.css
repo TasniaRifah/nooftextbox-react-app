@@ -1,0 +1,12 @@
+.allcheck {
+  background-color: rgb(247, 201, 183);
+  border: 1px solid darksalmon;
+  text-align: center;
+  color: black;
+  padding: 10px;
+  padding-left: 34px;
+  padding-right: 34px;
+}
+.container {
+  margin-right: 50px;
+}

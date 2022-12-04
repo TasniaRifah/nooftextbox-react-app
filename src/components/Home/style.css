@@ -1,0 +1,19 @@
+.textarea{
+   
+        flex-basis: 50%;
+        resize: none;
+        border: 1px solid;
+        border-radius: 0.6rem;
+        align-content:center ;
+        height:auto ;
+        text-align: center;
+    
+}
+.outputfield{
+   margin-left: 480px;
+    display: flex;
+    align-items: center;
+}
+.outputfield p{
+    margin-right: 15px;
+}
