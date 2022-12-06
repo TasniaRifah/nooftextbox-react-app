@@ -53,12 +53,12 @@ function Textbox(props) {
     setCheckboxValues(inputValues);
   };
 
-  useEffect(() => {
-    if (allChecked === true) {
-      setCheckStatus(allChecked);
-      setIsSingleCheckboxChange(true);
-    }
-  }, [allChecked, isSingleCheckboxChange]);
+  // useEffect(() => {
+  //   if (allChecked === true) {
+  //     setCheckStatus(allChecked);
+  //     setIsSingleCheckboxChange(true);
+  //   }
+  // }, [allChecked, isSingleCheckboxChange]);
 
   return (
     <div>
